@@ -104,7 +104,7 @@ Me chamo Ghustavo Marçonei, tenho 18 anos e sou natural de São Paulo. Atualmen
         src="https://github-stats-extended.vercel.app/api?username=ghvoo17&show_icons=true&theme=radical"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ghvoo17&langs_count=4&theme=radical">
     <img 
         alt="GitHub Stats" 
