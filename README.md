@@ -12,6 +12,13 @@ Me chamo Ghustavo Marçonei, tenho 18 anos e sou natural de São Paulo. Atualmen
             src="https://custom-icon-badges.demolab.com/github/followers/ghvoo17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/ghustavo-marçonei-119028342">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -84,3 +91,24 @@ Me chamo Ghustavo Marçonei, tenho 18 anos e sou natural de São Paulo. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br>
+</br>
+
+# Estástistica
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img 
+        alt="Ghustavo GitHub stats" 
+        src="https://github-stats-extended.vercel.app/api?username=ghvoo17&show_icons=true&theme=radical"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ghvoo17&langs_count=4&theme=radical">
+    <img 
+        alt="GitHub Stats" 
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=ghvoo17&langs_count=4&theme=radical"
+    />
+  </a>
+</p>
