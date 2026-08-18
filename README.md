@@ -92,6 +92,15 @@ Me chamo Ghustavo Marçonei, tenho 18 anos e sou natural de São Paulo. Atualmen
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="OpenCV" 
+    title="OpenCV"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" 
+/>
+
 <br>
 </br>
 
